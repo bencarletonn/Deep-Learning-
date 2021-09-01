@@ -1,4 +1,4 @@
-# Deep-Learning-
+# Intro to Deep-Learning
 Deep Learning with:
 - TensorFlow and Keras
 - PyTorch (GUI using Kivy) 
